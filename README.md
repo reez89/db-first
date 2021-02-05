@@ -24,3 +24,5 @@ Strutturate il file come fatto oggi in classe.  Specificate: il nome del databas
 - format type string VARCHAR(25) NULL
 - created_at_date date DATETIME NOTNULL
 - edited_in date DATETIME NULL
+
+
